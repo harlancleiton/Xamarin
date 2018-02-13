@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:EstiloGlobal"
+             x:Class="EstiloGlobal.MainPage">
+
+    <StackLayout>
+        <Label Text="Nome"></Label>
+        <Entry Placeholder="Digite seu nome..." />
+        <Button Text="Enviar" />
+        <Button Style="{StaticResource BtnGreen}" Text="Enviar" />
+    </StackLayout>
+
+</ContentPage>

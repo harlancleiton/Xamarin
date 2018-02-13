@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AvaliaBus.Views.RegisterView"
+             Title="Tela de Cadastro"
+             x:Name="TelaCadastro"
+             BackgroundColor="{StaticResource BackgroundColor}">
+
+    <StackLayout Padding="10" Spacing="30">
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+            <Label Text="AvaliaBus"
+                   TextColor="{StaticResource AcentColor}"
+                   FontSize="26"
+                   FontAttributes="Bold"
+                   HorizontalOptions="StartAndExpand"
+                   VerticalOptions="Center" />
+
+            <Image Source="icon_avalia_bus.png"
+                   WidthRequest="72"
+                   HeightRequest="72"
+                   HorizontalOptions="End"
+                   VerticalOptions="Center" />
+        </StackLayout>
+
+        <BoxView HeightRequest="3" Color="{StaticResource AcentColor}"></BoxView>
+        <StackLayout Padding="0,30,0,0">
+            <Entry x:Name="EntryEmail"
+                   Placeholder="Email"
+                   PlaceholderColor="{StaticResource MenuColor}"
+                   Text="{Binding Email}"
+                   TextColor="{StaticResource MenuColor}"
+                   Keyboard="Email"/>
+            
+            <Entry x:Name="EntryUsername"
+                   Placeholder="Usuário"
+                   PlaceholderColor="{StaticResource MenuColor}"
+                   Text="{Binding Username}"
+                   TextColor="{StaticResource MenuColor}"
+                   Keyboard="Text"/>
+
+            <Entry x:Name="EntryPassword"
+                   Placeholder="Senha"
+                   PlaceholderColor="{StaticResource MenuColor}"
+                   Text="{Binding Password}"
+                   TextColor="{StaticResource MenuColor}"
+                   Keyboard="Text"
+                   IsPassword="True"/>
+
+            <Button Text="Cadastrar"
+                    TextColor="{StaticResource MenuTextColor}"
+                    BackgroundColor="{StaticResource MenuColor}"
+                    Command="{Binding RegisterCommand}"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="Center"/>
+        </StackLayout>
+        
+        <StackLayout Orientation="Horizontal" Margin="20">
+            <Label Text="Recuperar Senha"
+                   TextColor="{StaticResource AcentColor}"
+                   FontSize="16"
+                   HorizontalOptions="StartAndExpand"
+                   VerticalOptions="Center">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Command="{Binding Source={x:Reference TelaCadastro}, Path=BindingContext.ForgotPasswordCommand}"/>
+                </Label.GestureRecognizers>
+            </Label>
+            <Label Text="Fazer Login"
+                   TextColor="{StaticResource AcentColor}"
+                   FontSize="16"
+                   HorizontalOptions="End"
+                   VerticalOptions="Center">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Command="{Binding Source={x:Reference TelaCadastro}, Path=BindingContext.LoginCommand}"/>
+                </Label.GestureRecognizers>
+            </Label>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

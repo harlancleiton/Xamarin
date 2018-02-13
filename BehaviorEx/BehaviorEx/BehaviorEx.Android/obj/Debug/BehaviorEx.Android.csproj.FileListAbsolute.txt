@@ -1,0 +1,2 @@
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\BehaviorEx\BehaviorEx\BehaviorEx.Android\obj\Debug\BehaviorEx.Android.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\BehaviorEx\BehaviorEx\BehaviorEx.Android\obj\Debug\BehaviorEx.Android.csprojResolveAssemblyReference.cache

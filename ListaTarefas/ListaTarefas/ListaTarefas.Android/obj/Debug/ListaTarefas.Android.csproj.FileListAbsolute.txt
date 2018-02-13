@@ -1,0 +1,241 @@
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\ListaTarefas.Android.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\ListaTarefas.Android.csproj.CoreCompileInputs.cache
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.Android.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.Android.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.Android.apk
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.Android-Signed.apk
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLite-net.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLite-net.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLite-net.xml
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\ListaTarefas.Android.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\ListaTarefas.Android.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\android\bin\ListaTarefas.Android.apk
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\values\styles.xml
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\R.cs.flag
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\uploadflags.txt
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.dll.mdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.Android.dll.mdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\android\assets\ListaTarefas.Android.dll.mdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\android\assets\ListaTarefas.dll.mdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.Android.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.Android.pdb
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.Android.apk
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.Android-Signed.apk
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLite-net.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.pdb
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.dll.mdb
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLite-net.pdb
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLite-net.xml
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\ListaTarefas.Android.csprojResolveAssemblyReference.cache
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\ListaTarefas.Android.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\ListaTarefas.Android.pdb
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\android\bin\ListaTarefas.Android.apk
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\drawable\icon.png
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\values\styles.xml
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\R.cs.flag
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\uploadflags.txt
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.Android.dll.mdb
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\android\assets\ListaTarefas.Android.dll.mdb
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\android\assets\ListaTarefas.dll.mdb
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\drawable\nosuccess.png
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\drawable\success.png
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.Android.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.Android.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.Android.apk
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.Android-Signed.apk
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLite-net.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLite-net.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLite-net.xml
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\ListaTarefas.Android.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\ListaTarefas.Android.csproj.CoreCompileInputs.cache
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\ListaTarefas.Android.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\ListaTarefas.Android.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\android\bin\ListaTarefas.Android.apk
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\values\styles.xml
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\drawable\nosuccess.png
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\drawable\success.png
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\R.cs.flag
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\uploadflags.txt
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.dll.mdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.Android.dll.mdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\android\assets\ListaTarefas.Android.dll.mdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\android\assets\ListaTarefas.dll.mdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.Android.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.Android.pdb
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.Android.apk
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.Android-Signed.apk
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLite-net.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.pdb
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.dll.mdb
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLite-net.pdb
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\SQLite-net.xml
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\ListaTarefas.Android.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\ListaTarefas.Android.csproj.CoreCompileInputs.cache
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\ListaTarefas.Android.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\ListaTarefas.Android.pdb
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\android\bin\ListaTarefas.Android.apk
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\values\styles.xml
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\drawable\nosuccess.png
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\res\drawable\success.png
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\R.cs.flag
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\uploadflags.txt
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\bin\Debug\ListaTarefas.Android.dll.mdb
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\android\assets\ListaTarefas.Android.dll.mdb
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\android\assets\ListaTarefas.dll.mdb
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb

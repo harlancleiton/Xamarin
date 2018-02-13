@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AvaliaBus.Views.EvaluationGeneralView"
+             Title="Opções gerais de avaliação"
+             x:Name="Opções Gerais"
+             BackgroundColor="{StaticResource BackgroundColor}">
+    
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" Orientation="Vertical" Padding="10,30,0,0" Spacing="10">
+
+            <ListView
+                ItemsSource="{Binding ListEvaluationModelsGeneral}"
+                x:Name="EvaluationGeneralListView"
+                HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid>
+                                <Grid.GestureRecognizers>
+                                    <TapGestureRecognizer Command="{Binding Source={x:Reference Opções Gerais}, Path=BindingContext.NavigateToCommand}"
+                                                          CommandParameter="{Binding .}"/>
+                                </Grid.GestureRecognizers>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto"></ColumnDefinition>
+                                    <ColumnDefinition Width="*"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <Label Text="Dirigibilidade do motorista"
+                                    TextColor="{StaticResource TextColor}"
+                                    HorizontalOptions="StartAndExpand"
+                                    VerticalOptions="Center"/>
+                                <Entry Text="{Binding DriverNote}"
+                                    Grid.Column="1"
+                                    VerticalOptions="Center"
+                                    HorizontalOptions="End" />
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

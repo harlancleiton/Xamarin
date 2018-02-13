@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:AppSomar"
+             x:Class="AppSomar.MainPage">
+    <StackLayout VerticalOptions="Center" Orientation="Vertical">
+    
+	    <Label Text="Welcome to Xamarin Forms!" 
+               VerticalOptions="Center" 
+               HorizontalOptions="Center" />
+    
+        <Label Text="Número 01"
+               VerticalOptions="Center" 
+               HorizontalOptions="Center" />
+        <Entry x:Name="txtNumero1" Placeholder="Digite o número 01"></Entry>
+
+        <Label Text="Número 02"
+               VerticalOptions="Center" 
+               HorizontalOptions="Center" />
+        <Entry x:Name="txtNumero2" Placeholder="Digite o número 02"></Entry>
+
+        <Button Text="Somar" x:Name="btnSomar"></Button>
+
+        <Label x:Name="lblResultado"
+               VerticalOptions="Center"
+               HorizontalOptions="Center" />
+        
+        
+
+
+    </StackLayout>
+
+</ContentPage>

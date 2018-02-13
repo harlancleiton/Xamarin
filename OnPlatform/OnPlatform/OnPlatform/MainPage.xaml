@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:OnPlatform"
+             x:Class="OnPlatform.MainPage">
+
+    <Label Text="Label 'Off' Plataforma"></Label>
+
+    <Label>
+        <Label.Text>
+            <OnPlatform x:TypeArguments="x:String" Android="Olá Mundo! (Android)" iOS="Olá Mundo! (iOS)" WinPhone="Olá Mundo! (WinPhone)"></OnPlatform>
+        </Label.Text>
+    </Label>
+    
+    <!--Imagem OnPlatform
+    A caracteristica Source utiliza a classe ImageSouce. VER CODIGO .CS-->
+    <Image WidthRequest="300" HeightRequest="300">
+        <Image.Source>
+            <!--Como é uma classe, e não um tipo primitivo, não se coloca o "x:"-->
+            <OnPlatform x:TypeArguments="ImageSouce" Android="photo.jpg" iOS="foto.png" WinPhone="fotos/foto.jpg"></OnPlatform>
+        </Image.Source>
+    </Image>
+
+</ContentPage>

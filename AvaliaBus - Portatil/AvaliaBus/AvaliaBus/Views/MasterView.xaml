@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+                  xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                  x:Class="AvaliaBus.Views.MasterView"
+                  xmlns:local="clr-namespace:AvaliaBus.Views;assembly=AvaliaBus"
+                  Title="MenuMaster">
+
+    <!--<MasterDetailPage.Master>
+        <local:MenuView/>
+    </MasterDetailPage.Master>-->
+
+    <!--<MasterDetailPage.Detail>
+        <NavigationPage BarBackgroundColor="{StaticResource MainColor}"
+                        BarTextColor="{StaticResource TextColor}">
+            <x:Arguments>
+                <local:UserView />
+            </x:Arguments>
+        </NavigationPage>
+    </MasterDetailPage.Detail>-->
+</MasterDetailPage>

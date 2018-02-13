@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ListaTarefas.View.TelaPrincipal"
+             x:Name="TelaPrincipal"
+             xmlns:convert="clr-namespace:ListaTarefas.Converter;assembly=ListaTarefas">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <convert:FinalizadaConverter x:Key="CvtFinalizada"></convert:FinalizadaConverter>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    
+    <StackLayout>
+        
+        <StackLayout Orientation="Horizontal">
+            <Entry x:Name="EntryTarefa" Text="{Binding TarefaAtual.Nome}" Placeholder="Digite a nova tarefa" HorizontalOptions="FillAndExpand"></Entry>
+            <Button Text="Salvar" Command="{Binding SalvarTarefaCommand}"></Button>
+        </StackLayout>
+
+        <Label Text="Lista de tarefas" FontSize="20" HorizontalOptions="Center" FontAttributes="Bold"></Label>
+        
+        <ListView x:Name="ListaTarefas" HasUnevenRows="True" ItemsSource="{Binding Tarefas}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.ContextActions>
+
+                            <MenuItem Text="Editar" Command="{Binding Source={x:Reference TelaPrincipal}, Path=BindingContext.EditarTarefaCommand}" CommandParameter="{Binding .}"></MenuItem>
+                            <MenuItem Text="Exclur" Command="{Binding Source={x:Reference TelaPrincipal}, Path=BindingContext.ExcluirTarefaCommand}" CommandParameter="{Binding .}"></MenuItem>
+                            
+                        </ViewCell.ContextActions>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="{Binding Nome}" HorizontalOptions="StartAndExpand" />
+                            <Button Image="{Binding Finalizada, Converter={StaticResource CvtFinalizada}}" Command="{Binding Source={x:Reference TelaPrincipal}, Path=BindingContext.ModificarTarefaCommand}" CommandParameter="{Binding .}" BackgroundColor="Transparent" HeightRequest="32" WidthRequest="32" HorizontalOptions="End"></Button>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+    
+</ContentPage>

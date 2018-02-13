@@ -1,0 +1,18 @@
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\AvaliaBus\AvaliaBus\AvaliaBus.Android\obj\Debug\AvaliaBus.Android.csproj.CoreCompileInputs.cache
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\AvaliaBus\AvaliaBus\AvaliaBus.Android\obj\Debug\AvaliaBus.Droid.MainPage.xaml.g.cs
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\AvaliaBus\AvaliaBus\AvaliaBus.Android\obj\Debug\AvaliaBus.Droid.App.xaml.g.cs
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\AvaliaBus\AvaliaBus\AvaliaBus.Android\obj\Debug\AvaliaBus.Droid.Views.LoginView.xaml.g.cs
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\AvaliaBus\AvaliaBus\AvaliaBus.Android\obj\Debug\AvaliaBus.Droid.Views.RegistroView.xaml.g.cs
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\AvaliaBus\AvaliaBus\AvaliaBus.Android\obj\Debug\AvaliaBus.Droid.Views.EsqueceuSenhaView.xaml.g.cs
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\AvaliaBus\AvaliaBus\AvaliaBus.Android\obj\Debug\AvaliaBus.Droid.Views.MasterView.xaml.g.cs
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\AvaliaBus\AvaliaBus\AvaliaBus.Android\obj\Debug\AvaliaBus.Droid.Views.MenuView.xaml.g.cs
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\AvaliaBus\AvaliaBus\AvaliaBus.Android\obj\Debug\AvaliaBus.Droid.Views.UsuarioView.xaml.g.cs
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\AvaliaBus\AvaliaBus\AvaliaBus.Android\obj\Debug\AvaliaBus.Droid.Views.ConfiguracoesView.xaml.g.cs
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\AvaliaBus\AvaliaBus\AvaliaBus.Android\obj\Debug\AvaliaBus.Droid.Views.AvaliacaoView.xaml.g.cs
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\AvaliaBus\AvaliaBus\AvaliaBus.Android\obj\Debug\AvaliaBus.Droid.Views.AvaliacaoGeralView.xaml.g.cs
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\AvaliaBus\AvaliaBus\AvaliaBus.Android\obj\Debug\AvaliaBus.Droid.Views.AvaliacaoEspecificaView.xaml.g.cs
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\AvaliaBus\AvaliaBus\AvaliaBus.Android\obj\Debug\AvaliaBus.Droid.Views.HistoricoView.xaml.g.cs
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\AvaliaBus\AvaliaBus\AvaliaBus.Android\obj\Debug\AvaliaBus.Droid.Views.SobreView.xaml.g.cs
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\AvaliaBus\AvaliaBus\AvaliaBus.Android\obj\Debug\AvaliaBus.Droid.Views.SairView.xaml.g.cs
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\AvaliaBus\AvaliaBus\AvaliaBus.Android\obj\Debug\AvaliaBus.Android.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\AvaliaBus\AvaliaBus\AvaliaBus.Android\obj\Debug\AvaliaBus.Android.csprojResolveAssemblyReference.cache

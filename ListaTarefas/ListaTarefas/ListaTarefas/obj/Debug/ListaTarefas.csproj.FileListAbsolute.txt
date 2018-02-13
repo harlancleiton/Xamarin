@@ -1,0 +1,91 @@
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\ListaTarefas.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\ListaTarefas.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\obj\Debug\ListaTarefas.csproj.CoreCompileInputs.cache
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\obj\Debug\ListaTarefas.MainPage.xaml.g.cs
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\obj\Debug\ListaTarefas.App.xaml.g.cs
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\obj\Debug\ListaTarefas.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\obj\Debug\ListaTarefas.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\obj\Debug\ListaTarefas.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\SQLite-net.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\SQLite-net.pdb
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\SQLite-net.xml
+C:\Users\Harlan\Dropbox\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\obj\Debug\ListaTarefas.View.TelaPrincipal.xaml.g.cs
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas\obj\Debug\ListaTarefas.csprojResolveAssemblyReference.cache
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas\obj\Debug\ListaTarefas.MainPage.xaml.g.cs
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas\obj\Debug\ListaTarefas.App.xaml.g.cs
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas\obj\Debug\ListaTarefas.View.TelaPrincipal.xaml.g.cs
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas\obj\Debug\ListaTarefas.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas\obj\Debug\ListaTarefas.pdb
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\ListaTarefas.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\ListaTarefas.pdb
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\SQLite-net.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\SQLite-net.pdb
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\SQLite-net.xml
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\harlan.silva\Downloads\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\ListaTarefas.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\ListaTarefas.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\SQLite-net.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\SQLite-net.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\SQLite-net.xml
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\obj\Debug\ListaTarefas.csproj.CoreCompileInputs.cache
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\obj\Debug\ListaTarefas.MainPage.xaml.g.cs
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\obj\Debug\ListaTarefas.App.xaml.g.cs
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\obj\Debug\ListaTarefas.View.TelaPrincipal.xaml.g.cs
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\obj\Debug\ListaTarefas.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\obj\Debug\ListaTarefas.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\obj\Debug\ListaTarefas.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\ListaTarefas.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\ListaTarefas.pdb
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\SQLite-net.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\SQLite-net.pdb
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\SQLite-net.xml
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\obj\Debug\ListaTarefas.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\obj\Debug\ListaTarefas.csproj.CoreCompileInputs.cache
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\obj\Debug\ListaTarefas.MainPage.xaml.g.cs
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\obj\Debug\ListaTarefas.App.xaml.g.cs
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\obj\Debug\ListaTarefas.View.TelaPrincipal.xaml.g.cs
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\obj\Debug\ListaTarefas.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\ListaTarefas\ListaTarefas\ListaTarefas\obj\Debug\ListaTarefas.pdb

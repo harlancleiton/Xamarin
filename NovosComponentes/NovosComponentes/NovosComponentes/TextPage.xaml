@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NovosComponentes.TextPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry></Entry> <!--Não permite pular linha-->
+            <Editor HeightRequest="75"></Editor> <!--Permite pular linha-->
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

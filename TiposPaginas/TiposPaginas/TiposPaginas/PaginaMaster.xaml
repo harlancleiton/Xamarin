@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TiposPaginas.MenuMaster"
+            xmlns:local="clr-namespace:TiposPaginas;assembly=TiposPaginas">
+
+    <!--Menu lateral-->
+    <MasterDetailPage.Master>
+        <ContentPage Title="Menu">
+            <StackLayout>
+                <!--Recomendado usar o ListView aqui-->
+                <Button Text="Home"></Button>
+                <Button Text="Pagina2"></Button>
+            </StackLayout>
+        </ContentPage>
+    </MasterDetailPage.Master>
+    
+    <!--Pagina-->
+    <MasterDetailPage.Detail>
+
+    </MasterDetailPage.Detail>
+</MasterDetailPage>

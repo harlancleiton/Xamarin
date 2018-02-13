@@ -1,0 +1,16 @@
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\BehaviorEx\BehaviorEx\BehaviorEx\bin\Debug\BehaviorEx.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\BehaviorEx\BehaviorEx\BehaviorEx\bin\Debug\BehaviorEx.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\BehaviorEx\BehaviorEx\BehaviorEx\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\BehaviorEx\BehaviorEx\BehaviorEx\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\BehaviorEx\BehaviorEx\BehaviorEx\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\BehaviorEx\BehaviorEx\BehaviorEx\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\BehaviorEx\BehaviorEx\BehaviorEx\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\BehaviorEx\BehaviorEx\BehaviorEx\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\BehaviorEx\BehaviorEx\BehaviorEx\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\BehaviorEx\BehaviorEx\BehaviorEx\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\BehaviorEx\BehaviorEx\BehaviorEx\obj\Debug\BehaviorEx.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\BehaviorEx\BehaviorEx\BehaviorEx\obj\Debug\BehaviorEx.csproj.CoreCompileInputs.cache
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\BehaviorEx\BehaviorEx\BehaviorEx\obj\Debug\BehaviorEx.MainPage.xaml.g.cs
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\BehaviorEx\BehaviorEx\BehaviorEx\obj\Debug\BehaviorEx.App.xaml.g.cs
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\BehaviorEx\BehaviorEx\BehaviorEx\obj\Debug\BehaviorEx.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\BehaviorEx\BehaviorEx\BehaviorEx\obj\Debug\BehaviorEx.pdb

@@ -1,0 +1,5 @@
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ServicosCEP\ServicosCEP\ServicosCEP\obj\Debug\ServicosCEP.csproj.App.config
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ServicosCEP\ServicosCEP\ServicosCEP\obj\Debug\ServicosCEP.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ServicosCEP\ServicosCEP\ServicosCEP\obj\Debug\ServicosCEP.csproj.CoreCompileInputs.cache
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ServicosCEP\ServicosCEP\ServicosCEP\obj\Debug\ServicosCEP.MainPage.xaml.g.cs
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ServicosCEP\ServicosCEP\ServicosCEP\obj\Debug\ServicosCEP.App.xaml.g.cs

@@ -1,0 +1,16 @@
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoStackLayout\ProjetoStackLayout\ProjetoStackLayout\bin\Debug\ProjetoStackLayout.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoStackLayout\ProjetoStackLayout\ProjetoStackLayout\bin\Debug\ProjetoStackLayout.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoStackLayout\ProjetoStackLayout\ProjetoStackLayout\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoStackLayout\ProjetoStackLayout\ProjetoStackLayout\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoStackLayout\ProjetoStackLayout\ProjetoStackLayout\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoStackLayout\ProjetoStackLayout\ProjetoStackLayout\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoStackLayout\ProjetoStackLayout\ProjetoStackLayout\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoStackLayout\ProjetoStackLayout\ProjetoStackLayout\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoStackLayout\ProjetoStackLayout\ProjetoStackLayout\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoStackLayout\ProjetoStackLayout\ProjetoStackLayout\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoStackLayout\ProjetoStackLayout\ProjetoStackLayout\obj\Debug\ProjetoStackLayout.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoStackLayout\ProjetoStackLayout\ProjetoStackLayout\obj\Debug\ProjetoStackLayout.csproj.CoreCompileInputs.cache
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoStackLayout\ProjetoStackLayout\ProjetoStackLayout\obj\Debug\ProjetoStackLayout.MainPage.xaml.g.cs
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoStackLayout\ProjetoStackLayout\ProjetoStackLayout\obj\Debug\ProjetoStackLayout.App.xaml.g.cs
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoStackLayout\ProjetoStackLayout\ProjetoStackLayout\obj\Debug\ProjetoStackLayout.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoStackLayout\ProjetoStackLayout\ProjetoStackLayout\obj\Debug\ProjetoStackLayout.pdb

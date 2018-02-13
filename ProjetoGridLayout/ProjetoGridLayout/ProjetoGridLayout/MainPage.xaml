@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ProjetoGridLayout"
+             x:Class="ProjetoGridLayout.MainPage">
+
+    <!--Pode ser comparado com uma tabela (possue colunas e linhas)-->
+    <!--ColumnSpacing/RowSpacing é a distância entre as linhas/colunas-->
+    <Grid ColumnSpacing="0">
+        <Grid.ColumnDefinitions>
+            <!--Adicionando colunas-->
+            <!--Setando a largura das colunas-->
+            <ColumnDefinition Width="100"></ColumnDefinition>
+            <!--* = expande o máximo possível-->
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <!--Auto = define a largura de acordo com os elementos filhos-->
+            <ColumnDefinition Width="100"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <!--Adicionando linhas-->
+            <!--Setando a altura das linhas-->
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <!--Adicionando elementos ao grid-->
+        <!--As linhas e colunas trabalham com posição, como vetores: Grid.Column="POSIÇÃO" Grid.Row="POSIÇÃO" POSIÇÃO começa do 0-->
+        <BoxView Color="Blue" Grid.Column="0" Grid.Row="0"></BoxView>
+        <!--Row/ColumnSpan para ocupar um número X de linhas/colunas-->
+        <BoxView Color="Green" Grid.Column="0" Grid.Row="1" Grid.RowSpan="2"></BoxView>
+    </Grid>
+
+</ContentPage>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AvaliaBus.Views.EvaluationGeneralView"
+             Title="Opções gerais de avaliação"
+             BackgroundColor="{StaticResource BackgroundColor}">
+    
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" Orientation="Vertical" Padding="10,30,0,0" Spacing="10">
+            <StackLayout HorizontalOptions="Center" VerticalOptions="Center" Orientation="Horizontal">
+                <Label Text="Motorista" TextColor="{StaticResource TextColor}" VerticalOptions="Center"/>
+                <Entry Keyboard="Numeric" VerticalOptions="Center" TextColor="{StaticResource MenuColor}" WidthRequest="50"/>
+            </StackLayout>
+            <StackLayout HorizontalOptions="Center" VerticalOptions="Center" Orientation="Horizontal">
+                <Label Text="Cobrador" TextColor="{StaticResource TextColor}" VerticalOptions="Center"/>
+                <Entry Keyboard="Numeric" VerticalOptions="Center" TextColor="{StaticResource MenuColor}" WidthRequest="50"/>
+            </StackLayout>
+            <StackLayout HorizontalOptions="Center" VerticalOptions="Center" Orientation="Horizontal">
+                <Label Text="Ônibus" TextColor="{StaticResource TextColor}" VerticalOptions="Center"/>
+                <Entry Keyboard="Numeric" VerticalOptions="Center" TextColor="{StaticResource MenuColor}" WidthRequest="50"/>
+            </StackLayout>
+            <StackLayout HorizontalOptions="Center" VerticalOptions="Center" Orientation="Horizontal">
+                <Label Text="Limpeza" TextColor="{StaticResource TextColor}" VerticalOptions="Center"/>
+                <Entry Keyboard="Numeric" VerticalOptions="Center" TextColor="{StaticResource MenuColor}" WidthRequest="50"/>
+            </StackLayout>
+            <StackLayout HorizontalOptions="Center" VerticalOptions="Center" Orientation="Horizontal">
+                <Label Text="Segurança" TextColor="{StaticResource TextColor}" VerticalOptions="Center"/>
+                <Entry Keyboard="Numeric" VerticalOptions="Center" TextColor="{StaticResource MenuColor}" WidthRequest="50"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

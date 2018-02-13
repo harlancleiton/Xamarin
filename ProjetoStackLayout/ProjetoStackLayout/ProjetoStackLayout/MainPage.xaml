@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ProjetoStackLayout"
+             x:Class="ProjetoStackLayout.MainPage">
+
+    <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+        <!--O spacing determina o espaço entre os elementos filhos, nesse caso, o BoxView
+            O padding determina o espaço entre o elemento pai e os elementos filhos, entre o StackLayout e os BoxView-->
+        <StackLayout Orientation="Vertical" Spacing="0" Padding="20" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+            <BoxView Color="Blue" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"></BoxView>
+            <BoxView Color="Yellow" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"></BoxView>
+            <BoxView Color="Green" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"></BoxView>
+        </StackLayout>
+        
+        <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+            <BoxView Color="Blue" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"></BoxView>
+            <BoxView Color="Yellow" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"></BoxView>
+            <BoxView Color="Green" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"></BoxView>
+        </StackLayout>
+
+        <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+            <BoxView Color="Blue" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"></BoxView>
+            <BoxView Color="Yellow" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"></BoxView>
+            <BoxView Color="Green" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"></BoxView>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Digite seu nome" WidthRequest="120" FontSize="16" VerticalTextAlignment="Center" />
+            <Entry Placeholder="Ex: Harlan" FontSize="16" HorizontalOptions="FillAndExpand"></Entry>
+        </StackLayout>
+
+    </StackLayout>
+
+</ContentPage>

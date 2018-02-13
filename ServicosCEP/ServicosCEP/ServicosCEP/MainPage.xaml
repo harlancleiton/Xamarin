@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ServicosCEP"
+             x:Class="ServicosCEP.MainPage">
+
+    <StackLayout>
+        <Label Text="Buscador de CEP" />
+        <Entry Placeholder="Digite o CEP" x:Name="EntryCEP" Keyboard="Numeric"/>
+        <Label x:Name="txtResultadoCEP" />
+        <Button Text="Buscar" Clicked="BuscarCEP" />
+    </StackLayout>
+
+</ContentPage>

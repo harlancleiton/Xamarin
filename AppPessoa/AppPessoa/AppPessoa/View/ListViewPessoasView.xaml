@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppPessoa.View.ListViewPessoasView">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="ListView Pessoas" FontSize="16" HorizontalOptions="Center" />
+            <!-- ItemSource Binding NomeVariavel/Lista que deve ser percorrida pelo ListView-->
+            <ListView ItemsSource="{Binding Pessoas}" ItemTapped="ListViewPessoaItemDetail">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <!-- Com viewcell (mais flexivel) -->
+                        <!-- <ViewCell>
+                            <StackLayout Padding="20">
+                                <Label Text="{Binding Nome}" />
+                            </StackLayout>
+                        </ViewCell> -->
+                        <!-- Com textcell (mais perfomatico) -->
+                        <TextCell Text="{Binding Nome}" Detail="{Binding Email}" TextColor="DarkMagenta" DetailColor="DarkKhaki"></TextCell>
+                        <!-- Com imagemcell -->
+                        <!-- <ImageCell ImageSource="https://image.freepik.com/icones-gratis/usuario-masculino-imagem-no-perfil_318-37825.jpg" Text="{Binding Nome}" Detail="{Binding Email}"></ImageCell> -->
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

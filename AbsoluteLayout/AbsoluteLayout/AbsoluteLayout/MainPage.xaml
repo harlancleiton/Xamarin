@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:AbsoluteLayout"
+             x:Class="AbsoluteLayout.MainPage">
+    <!--AbsoluteLayout é ter uma posição absoluta dos seus elementos-->
+    <AbsoluteLayout Padding="5">
+        <!--AbsoluteLayout.LayoutBounds="0,0,100,100" (Eixo X, Eixo Y, Largura, Altura)-->
+        <BoxView AbsoluteLayout.LayoutBounds="10,0,100,100" Color="Blue" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"></BoxView>
+        <BoxView AbsoluteLayout.LayoutBounds="120,120,200,200" Color="Yellow" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"></BoxView>
+        <BoxView AbsoluteLayout.LayoutBounds="250,430,100,100" Color="Green" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"></BoxView>
+
+        <!--Trabalhando com LayoutFlags posso trabalhar com proporção-->
+        <BoxView AbsoluteLayout.LayoutBounds="0.1,0.1,0.35,0.3" AbsoluteLayout.LayoutFlags="All" Color="Red" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"></BoxView>
+        <BoxView AbsoluteLayout.LayoutBounds="0.8,0.1,0.35,0.3" AbsoluteLayout.LayoutFlags="All" Color="Red" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"></BoxView>
+        <BoxView AbsoluteLayout.LayoutBounds="0.1,0.8,0.35,0.3" AbsoluteLayout.LayoutFlags="All" Color="Red" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"></BoxView>
+        <BoxView AbsoluteLayout.LayoutBounds="0.8,0.8,0.35,0.3" AbsoluteLayout.LayoutFlags="All" Color="Red" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"></BoxView>
+        
+    </AbsoluteLayout>
+
+</ContentPage>

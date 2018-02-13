@@ -1,0 +1,16 @@
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoScrollView\ProjetoScrollView\ProjetoScrollView\bin\Debug\ProjetoScrollView.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoScrollView\ProjetoScrollView\ProjetoScrollView\bin\Debug\ProjetoScrollView.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoScrollView\ProjetoScrollView\ProjetoScrollView\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoScrollView\ProjetoScrollView\ProjetoScrollView\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoScrollView\ProjetoScrollView\ProjetoScrollView\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoScrollView\ProjetoScrollView\ProjetoScrollView\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoScrollView\ProjetoScrollView\ProjetoScrollView\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoScrollView\ProjetoScrollView\ProjetoScrollView\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoScrollView\ProjetoScrollView\ProjetoScrollView\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoScrollView\ProjetoScrollView\ProjetoScrollView\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoScrollView\ProjetoScrollView\ProjetoScrollView\obj\Debug\ProjetoScrollView.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoScrollView\ProjetoScrollView\ProjetoScrollView\obj\Debug\ProjetoScrollView.csproj.CoreCompileInputs.cache
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoScrollView\ProjetoScrollView\ProjetoScrollView\obj\Debug\ProjetoScrollView.MainPage.xaml.g.cs
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoScrollView\ProjetoScrollView\ProjetoScrollView\obj\Debug\ProjetoScrollView.App.xaml.g.cs
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoScrollView\ProjetoScrollView\ProjetoScrollView\obj\Debug\ProjetoScrollView.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\ProjetoScrollView\ProjetoScrollView\ProjetoScrollView\obj\Debug\ProjetoScrollView.pdb

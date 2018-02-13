@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ProjetoRelativeLayout"
+             x:Class="ProjetoRelativeLayout.MainPage">
+    <!--Possibilita que a posição dos elementos sejam relativas a outros elementos-->
+    <RelativeLayout>
+        <!--RelativeLayout.YContraint (em relação ao eixo Y)-->
+        <!--Criando uma ConstraintExpression para determinar a posição em relação ao RelativeLayout (objeto pai)-->
+        <!--Type(em relação a),Property(altura/largura),
+        Factor(Em relação ao Type e Property, onde vai ficar, nesse caso 50% da altura
+        Constant=X pixel a mais ou a menos em relação ao Factor-->
+        <BoxView Color="Yellow" WidthRequest="100" HeightRequest="100" RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeParent, Property=Height, Factor=0.5, Constraint=50}">
+            
+        </BoxView>
+    </RelativeLayout>
+</ContentPage>

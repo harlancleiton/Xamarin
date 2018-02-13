@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EstiloGlobal.App">
+	<Application.Resources>
+
+		<!-- Application resource dictionary -->
+        <!--Definindo estilo global-->
+        <ResourceDictionary>
+            <Style TargetType="Label">
+                <Setter Property="TextColor" Value="Green" />
+            </Style>
+            <Style TargetType="Entry">
+                <Setter Property="TextColor" Value="Gray" />
+            </Style>
+            <Style TargetType="Button">
+                <Setter Property="BackgroundColor" Value="Yellow" />
+                <Setter Property="TextColor" Value="Black" />
+            </Style>
+            
+            <!--Ao colocar uma chave(key) é necessário usar a mesma no componente para aplicar o estilo definido-->
+            <Style x:Key="BtnGreen" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="Green" />
+                <Setter Property="TextColor" Value="Black" />
+            </Style>
+        </ResourceDictionary>
+	</Application.Resources>
+</Application>

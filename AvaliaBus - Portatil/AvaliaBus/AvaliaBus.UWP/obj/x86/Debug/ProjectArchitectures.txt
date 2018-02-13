@@ -1,0 +1,2 @@
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\AvaliaBus\AvaliaBus\AvaliaBus.UWP\AvaliaBus.UWP.csproj;x86
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\Xamarin\AvaliaBus\AvaliaBus\AvaliaBus\AvaliaBus.csproj;neutral
